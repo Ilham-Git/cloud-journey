@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Cloud-101/03-aws-core-services.md",
+                "file": "01-Cloud-101/04-practical-skills-checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-aws-core-services"
+              "title": "04-practical-skills-checklist"
             }
           }
         ],
@@ -201,8 +201,10 @@
   },
   "active": "69f9caba7a835642",
   "lastOpenFiles": [
-    "01-Cloud-101/02-aws-global-infra-and-security.md",
     "01-Cloud-101/03-aws-core-services.md",
+    "01-Cloud-101/04-practical-skills-checklist.md",
+    "Screenshot 2026-03-18 181350.png",
+    "01-Cloud-101/02-aws-global-infra-and-security.md",
     "01-Cloud-101/01-cloud-computing-basics.md",
     "01-Cloud-101/README.md",
     "README.md"
