@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portal Internal BUMN - Tim Cloud Ops</title>
+    <title>Portal Internal - Tim Cloud Ops</title>
     <style>
         body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f0f2f5; text-align: center; padding-top: 10vh; margin: 0; }
         .card { background-color: white; padding: 40px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); display: inline-block; max-width: 500px; border-top: 5px solid #0056b3; }
@@ -16,7 +16,7 @@
 <body>
 
     <div class="card">
-        <h1>Portal Internal BUMN</h1>
+        <h1>Portal Internal</h1>
         <p>Status: <strong>✅ Server Aktif dan Berjalan</strong></p>
         
         <div class="ip-box">

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Hands-On/01-Cloud-Security-&-Cost-Foundation.md",
+                "file": "02-Hands-On/02-Project1-Provisioning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-Cloud-Security-&-Cost-Foundation"
+              "title": "02-Project1-Provisioning"
             }
           }
         ],
@@ -214,10 +214,11 @@
   },
   "active": "14f1a58a05c85948",
   "lastOpenFiles": [
+    "02-Hands-On/01-Cloud-Security-&-Cost-Foundation.md",
+    "02-Hands-On/02-Project1-Provisioning.md",
     "app-source-code/index.php",
     "app-source-code",
     "01-Cloud-101/05-cloud-career-paths.md",
-    "02-Hands-On/01-Cloud-Security-&-Cost-Foundation.md",
     "02-Hands-On",
     "01-Cloud-101/04-practical-skills-checklist.md",
     "01-Cloud-101/03-aws-core-services.md",
