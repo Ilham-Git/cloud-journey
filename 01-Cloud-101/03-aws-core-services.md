@@ -7,7 +7,7 @@
 Berikut adalah layanan-layanan utama yang menjadi tulang punggung arsitektur *cloud* di AWS:
 
 
-![[Screenshot 2026-03-18 181350.png]]
+![[core-services-aws.png]]
 ### 1. Compute (Komputasi/Otak Server)
 | Nama Layanan   | Penjelasan Singkat                                                                                                                                                                                                                           |
 | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

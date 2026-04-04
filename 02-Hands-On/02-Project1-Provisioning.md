@@ -21,3 +21,4 @@
 - [x] Mengotomatisasi proses `git clone` untuk menarik kode *website* PHP dari *repository* secara *real-time* saat instans pertama kali dihidupkan (otomatisasi *deployment*).
 
 **Hasil:** *Server* berhasil *running* dan aplikasi *web* dapat diakses publik sambil menampilkan IP *Server* internal secara dinamis.
+![[Web-Deploy-Portal.png]]
