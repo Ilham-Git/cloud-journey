@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Hands-On/02-Project1-Provisioning.md",
+                "file": "02-Hands-On/03-Project2-Monitoring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-Project1-Provisioning"
+              "title": "03-Project2-Monitoring"
             }
           }
         ]
@@ -185,8 +185,11 @@
   },
   "active": "11fe50cdeef99fd2",
   "lastOpenFiles": [
-    "assets/Web-Deploy-Portal.png",
+    "assets/cloudwatch-kritis.png",
+    "02-Hands-On/03-Project2-Monitoring.md",
+    "assets/sns-email.png",
     "02-Hands-On/02-Project1-Provisioning.md",
+    "assets/Web-Deploy-Portal.png",
     "02-Hands-On/01-Cloud-Security-&-Cost-Foundation.md",
     "01-Cloud-101/03-aws-core-services.md",
     "01-Cloud-101/04-practical-skills-checklist.md",
